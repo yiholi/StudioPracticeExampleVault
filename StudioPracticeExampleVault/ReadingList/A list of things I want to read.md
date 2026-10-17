@@ -3,4 +3,6 @@ Once you read something, its a good idea to write a quick reflection or summary 
 - [x] Jack and the beanstalk
 	This is a story about a boy selling property that wasn't his, and using his ill gotten gains to rob a giant. It made me rethink creative copyright law.
 - [x] Humpty Dumpty
-- [ ] Little red riding hood 
+- [ ] 
+- [ ] [[Of Other Spaces. Utopias and Heterotopias, Michel Foucault]] 
+	[[Heterotopia 異質空間]]
