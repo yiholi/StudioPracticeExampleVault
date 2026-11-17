@@ -14,11 +14,6 @@
 		{"id":"8cf060f05d1e7bc5","type":"text","text":"Fantasy","x":-1009,"y":468,"width":128,"height":51},
 		{"id":"65a216b8fcda3008","type":"text","text":"Portal Fantasy\nhttps://en.wikipedia.org/wiki/Portal_fantasy","x":-1360,"y":452,"width":269,"height":83},
 		{"id":"b06a912a6384bd72","type":"text","text":"Science Fiction","x":-1018,"y":603,"width":169,"height":55},
-		{"id":"65c6e627fd6a38e0","type":"file","file":"Non-place 非地方.md","x":400,"y":721,"width":420,"height":400},
-		{"id":"da472bd9c844c62e","type":"file","file":"Heterotopia 異質空間.md","x":-157,"y":721,"width":447,"height":559},
-		{"id":"91f4be69644003f7","type":"file","file":"Sense of Place 場所感.md","x":923,"y":721,"width":400,"height":400},
-		{"id":"04eb87f1db580bf2","type":"file","file":"Third Space Theory 第三空間.md","x":1443,"y":721,"width":400,"height":400},
-		{"id":"48aeb8d1433bbdfb","type":"file","file":"Outside and Inside 內與外的辯證.md","x":1964,"y":721,"width":400,"height":400},
 		{"id":"8f5dda02dde40950","type":"text","text":"Architecture","x":-505,"y":221,"width":145,"height":50},
 		{"id":"662540bcdf20213a","type":"text","text":"Literature","x":-498,"y":317,"width":131,"height":60},
 		{"id":"960329182204d882","type":"text","text":"Painting","x":-505,"y":4,"width":131,"height":50},
@@ -39,9 +34,21 @@
 		{"id":"2f7b695748e16895","type":"link","url":"https://docs.google.com/document/d/1zas9UZMKr_SnhEUY6kQFL7yCkcjvlNBvcpza_1IEQLw/edit?tab=t.n1fuoxgoohl7","x":-1281,"y":-590,"width":400,"height":295},
 		{"id":"c5abe7698d2f4741","type":"text","text":"The Peach Blossom Spring","x":-1655,"y":1320,"width":250,"height":60},
 		{"id":"184a1fb26a853ccd","type":"text","text":"In science fiction, artificial portals may malfunction or produce unintended consequences, highlighting the dangers of overreaching technological ambition.","x":-1896,"y":1001,"width":732,"height":85,"color":"3"},
-		{"id":"f4d68d1100e50fc6","type":"file","file":"Placelessness 無地感.md","x":640,"y":1280,"width":400,"height":400},
 		{"id":"d3b49b9f995bbfc4","type":"text","text":"Game","x":520,"y":246,"width":290,"height":50},
-		{"id":"b42421cbcf4393d7","type":"text","text":"XR","x":520,"y":345,"width":90,"height":50}
+		{"id":"b42421cbcf4393d7","type":"text","text":"XR","x":520,"y":345,"width":90,"height":50},
+		{"id":"665f6f24992d4051","type":"text","text":"Sociology","x":-498,"y":525,"width":250,"height":50},
+		{"id":"65c6e627fd6a38e0","type":"file","file":"Non-place 非地方.md","x":825,"y":681,"width":420,"height":400},
+		{"id":"91f4be69644003f7","type":"file","file":"Sense of Place 場所感.md","x":1348,"y":681,"width":400,"height":400},
+		{"id":"04eb87f1db580bf2","type":"file","file":"Third Space Theory 第三空間.md","x":1868,"y":681,"width":400,"height":400},
+		{"id":"48aeb8d1433bbdfb","type":"file","file":"Outside and Inside 內與外的辯證.md","x":2389,"y":681,"width":400,"height":400},
+		{"id":"f4d68d1100e50fc6","type":"file","file":"Placelessness 無地感.md","x":1065,"y":1240,"width":400,"height":400},
+		{"id":"da472bd9c844c62e","type":"file","file":"Heterotopia 異質空間.md","x":268,"y":681,"width":447,"height":559},
+		{"id":"8c7729cb35171d53","type":"text","text":"Ritual","x":-542,"y":721,"width":250,"height":60},
+		{"id":"0f7af82a1d9046a3","type":"file","file":"Rite of passage 成年禮.md","x":-620,"y":964,"width":400,"height":596},
+		{"id":"b321a53ef39edc0e","type":"text","text":"離開和抵達感能不能被製造出來，即使目的地不是真的 \n","x":960,"y":-583,"width":250,"height":60},
+		{"id":"cfc989029b67a6bf","type":"text","text":"從一個地方到另一個地方，身體是在哪個時刻、因為哪些變化，才覺得自己「到了」？","x":960,"y":-494,"width":351,"height":86},
+		{"id":"1b7bccd082c7ca66","type":"text","text":"Math https://optozorax.github.io/portal/","x":508,"y":130,"width":250,"height":60},
+		{"id":"a463450168188a6a","x":-428,"y":-1320,"width":400,"height":218,"type":"link","url":"https://www.youtube.com/watch?v=DsKurZOjRbw"}
 	],
 	"edges":[
 		{"id":"daa112496a3733bd","fromNode":"020a290f44046a85","fromSide":"top","toNode":"cbb8005a4430fb66","toSide":"bottom"},
@@ -82,6 +89,10 @@
 		{"id":"ef27c4e33fb727e0","fromNode":"960329182204d882","fromSide":"left","toNode":"1af54296e88f5a26","toSide":"right"},
 		{"id":"ec8ba792bfcfb497","fromNode":"d7e48cd1d4bf24f5","fromSide":"left","toNode":"c5abe7698d2f4741","toSide":"right"},
 		{"id":"12c949f9fe959f26","fromNode":"91f4be69644003f7","fromSide":"bottom","toNode":"f4d68d1100e50fc6","toSide":"top"},
-		{"id":"58ac12c9d929ad2f","fromNode":"65c6e627fd6a38e0","fromSide":"bottom","toNode":"f4d68d1100e50fc6","toSide":"top"}
+		{"id":"58ac12c9d929ad2f","fromNode":"65c6e627fd6a38e0","fromSide":"bottom","toNode":"f4d68d1100e50fc6","toSide":"top"},
+		{"id":"7cafc3180f221577","fromNode":"020a290f44046a85","fromSide":"bottom","toNode":"665f6f24992d4051","toSide":"top"},
+		{"id":"cd7e8c6185190c0e","fromNode":"665f6f24992d4051","fromSide":"bottom","toNode":"8c7729cb35171d53","toSide":"top"},
+		{"id":"44c5b6ffb64f63bc","fromNode":"8c7729cb35171d53","fromSide":"bottom","toNode":"0f7af82a1d9046a3","toSide":"top"},
+		{"id":"5ad78510cb1a48eb","fromNode":"65cee03c3a52c41f","fromSide":"right","toNode":"1b7bccd082c7ca66","toSide":"left"}
 	]
 }
